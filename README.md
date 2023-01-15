@@ -1,5 +1,5 @@
 # EfficientNet-classification-object
-## Решения для чемпионата в Карачево-Черкесской республике. Классификация объектов по изображениям на строительной площадке
+## Решение для чемпионата в Карачево-Черкесской республике. Классификация объектов по изображениям на строительной площадке
 train - data processing and model training  
 test - one model testing  
 ensemble_test - ensemble models testing  
